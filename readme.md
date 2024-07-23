@@ -6,8 +6,8 @@ Welcome to the issue tracker for Nexus Discord bot! Whether you've encountered a
 
 ### How to Use
 
-1. Click on [New Issue](https://github.com/nexus-discord-bot/issues/issues/new) to report a new issue.
-2. Check out [Existing Issues](https://github.com/nexus-discord-bot/issues/issues) to see if your issue has already been reported.
+1. Click on [New Issue](https://github.com/nexus-codes-app/issues/issues/new) to report a new issue.
+2. Check out [Existing Issues](https://github.com/nexus-codes-app/issues/issues) to see if your issue has already been reported.
 
 ### Guidelines for Reporting Issues
 
